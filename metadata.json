@@ -1,0 +1,6 @@
+{
+  "name": "ExamPortal",
+  "description": "A powerful examination and practice platform featuring an admin dashboard, live proctoring, question bank, statistics, analytics, and CSV import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
